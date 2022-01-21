@@ -1,0 +1,4 @@
+/* hides date range filter on event page */
+.category-group:nth-child(1) {
+ display: none;
+}
